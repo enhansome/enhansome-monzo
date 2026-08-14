@@ -1,0 +1,1098 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mondoweb",
+          "description": "Check your Mondo account from a web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-24T19:00:53Z",
+            "owner": "robcalcroft",
+            "repo": "monzoweb",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondoweb",
+          "description": "An online banking client built on the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-10-22T17:11:06Z",
+            "owner": "jamesallison",
+            "repo": "mondoweb",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monzo to QIF CLI",
+          "description": "Export Monzo transaction to QIF via CLI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-01-08T22:49:47Z",
+            "owner": "scottrobertson",
+            "repo": "monzo-export",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Mondo",
+          "description": "Mondo iOS app clone for web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-15T23:00:42Z",
+            "owner": "Manoj-nathwani",
+            "repo": "my-mondo",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-coffee",
+          "description": "Tag transactions automatically with custom rules",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-01T18:18:23Z",
+            "owner": "samdobson",
+            "repo": "monzo-coffee",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-web",
+          "description": "Mondo online banking app",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-05-20T12:52:50Z",
+            "owner": "scottrobertson",
+            "repo": "monzo-web",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzoid",
+          "description": "A visualisation of your spending with Monzo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-30T15:52:16Z",
+            "owner": "jamesdools",
+            "repo": "monzoid",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-dashboard",
+          "description": "A dashboard, with map, built on top of the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-07T19:29:37Z",
+            "owner": "MartinBlackburn",
+            "repo": "mondo-api",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-dashboard",
+          "description": "A dashboard built on top of the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-12-05T17:05:45Z",
+            "owner": "willrax",
+            "repo": "mondo-dashboard",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashbonzo",
+          "description": "Online dashboard detailing transactions and spending with Monzo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-07T18:58:23Z",
+            "owner": "rossmuego",
+            "repo": "dashbonzo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-web-client",
+          "description": "Transaction list & view, exporting, map and custom payday budgeting feature",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-04T09:44:51Z",
+            "owner": "roketworks",
+            "repo": "Monzo-Web-Client",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-balance",
+          "description": "Sometimes want to check your balance without out any other functionality whatsoever?? Monzo Balance is for you",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-15T16:56:49Z",
+            "owner": "stuart-williams",
+            "repo": "monzo-balance",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-cljs",
+          "description": "A Monzo client built in clojurescript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-06-01T21:18:27Z",
+            "owner": "DaveWM",
+            "repo": "monzo-cljs",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monzo QIF Exporter",
+          "description": "Monzo transaction exporter for QIF and CSV formats",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-reports",
+          "description": "Expense reports out of Monzo API",
+          "children": []
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monux",
+          "description": "Unofficial Monzo Client for Desktop",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-09-06T19:34:09Z",
+            "owner": "robjtede",
+            "repo": "monux",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-cli",
+          "description": "Monzo bank command line interface client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-24T01:04:02Z",
+            "owner": "cesarferreira",
+            "repo": "monzo-cli",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monies",
+          "description": "A little command line application for Mondo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-17T16:26:09Z",
+            "owner": "robinjmurphy",
+            "repo": "monies",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monz",
+          "description": "Simple (and awesome) Monzo command line interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T19:11:41Z",
+            "owner": "pawelad",
+            "repo": "monz",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mon.do Chrome Extension",
+          "description": "A browser extension for your Mondo account to get display your current balance and days spending",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Groff",
+            "last_commit": "2016-01-31T07:33:14Z",
+            "owner": "dphobson",
+            "repo": "Mon.do.extension.chrome",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mondo.extension",
+          "description": "A browser extension for Mondo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groff",
+            "last_commit": "2016-01-27T15:54:54Z",
+            "owner": "danielgraf",
+            "repo": "Mondo.extension",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bankbar",
+          "description": "Monzo on your desktop. Balance, spend & account details.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "mondobar",
+          "description": "Your Mondo balance in your menubar",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "clonzo",
+          "description": "Just another Node.js-based command line client for Monzo",
+          "children": []
+        }
+      ],
+      "title": "Desktop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mondroid",
+          "description": "A simple Mondo client for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-06-09T13:31:20Z",
+            "owner": "hitherejoe",
+            "repo": "Mondroid",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoAndroid",
+          "description": "An Android app for Mondo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-05-03T21:29:05Z",
+            "owner": "joluet",
+            "repo": "MondoAndroid",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-widget",
+          "description": "An Android app widget for Monzo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-06-03T20:36:34Z",
+            "owner": "emmaguy",
+            "repo": "monzo-widget",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code & Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mondo.NET",
+          "description": "A C# client library for the Mondo bank API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-03-12T20:14:49Z",
+            "owner": "rdingwall",
+            "repo": "mondo.net",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoAspNetMvcSample",
+          "description": "Sample Mondo.NET web app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-11-15T13:23:57Z",
+            "owner": "rdingwall",
+            "repo": "MondoAspNetMvcSample",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoUniversalWindowsSample",
+          "description": "Sample Mondo.NET desktop/phone app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-02-03T22:29:24Z",
+            "owner": "rdingwall",
+            "repo": "MondoUniversalWindowsSample",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-mondo",
+          "description": "Provides Go bindings for the Mondo banking app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-11-25T13:30:13Z",
+            "owner": "sjwhitworth",
+            "repo": "gomondo",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo",
+          "description": "Golang Mondo API Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-06-18T16:44:57Z",
+            "owner": "icio",
+            "repo": "mondo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-webhook-lambda",
+          "description": "Trigger an AWS Lambda function from a webhook request",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HCL",
+            "last_commit": "2018-07-17T15:52:25Z",
+            "owner": "mattrco",
+            "repo": "monzo-webhook-lambda",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-monzo",
+          "description": "Golang Monzo API Library",
+          "children": []
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monzo Retrofit",
+          "description": "Clean class based API interaction using Retrofit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-11-19T18:48:06Z",
+            "owner": "rubenwardy",
+            "repo": "monzo_retrofit",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoJava",
+          "description": "A Java library for Mondo Bank",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-11-20T16:00:26Z",
+            "owner": "danielgraf",
+            "repo": "MondoJava",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "monzo-bank",
+          "description": "Node wrapper for Monzo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-03T02:29:14Z",
+            "owner": "solidgoldpig",
+            "repo": "monzo-bank",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoJs",
+          "description": "A javascript client for the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-28T14:27:09Z",
+            "owner": "lededje",
+            "repo": "Mondojs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-lambda-auth",
+          "description": "AWS Lambda functions for fetching and refreshing Mondo tokens",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-12-04T09:47:36Z",
+            "owner": "willrax",
+            "repo": "mondo-lambda-auth",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-webhook-mock",
+          "description": "Small tool for mocking outgoing Mondo webhooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-03T16:00:49Z",
+            "owner": "mcky",
+            "repo": "mondo-webhook-mock",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "monzo-php",
+          "description": "An API client for Monzo Bank (with a Laravel service provider)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-22T22:45:46Z",
+            "owner": "ameliaikeda",
+            "repo": "monzo-php",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mondo-Client",
+          "description": "A Mondo Bank API Client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-04-19T18:28:14Z",
+            "owner": "ThePixelDeveloper",
+            "repo": "Monzo-Client",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-php",
+          "description": "A PHP-HTTP and PSR-7 Mondo API client",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "oauth-mondo",
+          "description": "A Mondo provider for the PHP League OAuth 2.0 Client",
+          "children": []
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "monzo-python",
+          "description": "A python SDK for interacting with the Monzo API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-01-01T17:17:26Z",
+            "owner": "adesnmi",
+            "repo": "monzo-python",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pymonzo",
+          "description": "An awesome Python library that smartly wraps Monzo public API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T23:28:28Z",
+            "owner": "pawelad",
+            "repo": "pymonzo",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-python",
+          "description": "A simple python SDK for dealing with the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-03T19:51:11Z",
+            "owner": "simonvc",
+            "repo": "mondo-python",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libmonzo",
+          "description": "A Python 3 wrapper of the Monzo API that supports OAuth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-08T18:24:05Z",
+            "owner": "dalemyers",
+            "repo": "libmonzo",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-python",
+          "description": "A Python (2.7) wrapper for the Monzo API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-11-06T22:57:08Z",
+            "owner": "pyepye",
+            "repo": "monzo-python",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mondo-ruby (official)",
+          "description": "The Mondo Ruby client provides a simple Ruby interface to the Mondo API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-08-30T20:51:28Z",
+            "owner": "monzo",
+            "repo": "mondo-ruby",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-monzo",
+          "description": "Monzo strategy for OmniAuth",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-monzo-example",
+          "description": "Example Sinatra app using the Monzo provider for OmniAuth",
+          "children": []
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MondoKit",
+          "description": "A Swift framework for accessing the Mondo bank API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-02-10T23:20:16Z",
+            "owner": "pollarm",
+            "repo": "MondoKit",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-swift",
+          "description": "A server-side Swift package for interacting with the Monzo public API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2017-04-15T23:16:17Z",
+            "owner": "marius-serban",
+            "repo": "monzo-swift",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-vapor",
+          "description": "Swift Package for Server-Side Swift Projects Using Vapor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-08-30T20:27:10Z",
+            "owner": "Sherlouk",
+            "repo": "monzo-vapor",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YNAB",
+          "description": "Automatically push Mondo transactions to YNAB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-06T15:58:08Z",
+            "owner": "syncforynab",
+            "repo": "fintech-to-ynab",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexa-monzo",
+          "description": "Monzo skill for the Amazon Alexa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-16T21:00:43Z",
+            "owner": "Geit",
+            "repo": "alexa-monzo",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monzo-Google-Sheets",
+          "description": "Scripts to sync data betweeen a google sheet and Monzo account",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-10T11:51:58Z",
+            "owner": "Andy-EOS",
+            "repo": "Monzo-Google-Sheets",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uber",
+          "description": "Instant publishing of Uber receipts to your Mondo bank feed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-09-20T19:38:24Z",
+            "owner": "rdingwall",
+            "repo": "hackathon-uber-mondo",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google sheets",
+          "description": "Automatically add transactions to a Google spreadsheet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-17T17:03:41Z",
+            "owner": "mcky",
+            "repo": "mondo-sheets",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeamCash",
+          "description": "a smart spending tracker for small teams and businesses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-24T15:45:31Z",
+            "owner": "elliotdavies",
+            "repo": "mondo-hackday",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nectar Card",
+          "description": "Loyalty scheme balance tracking in your Mondo account",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-08-01T22:50:25Z",
+            "owner": "danpalmer",
+            "repo": "mondo-loyalty",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMail",
+          "description": "email receipts automatically linked to your transactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2015-12-22T11:27:50Z",
+            "owner": "rdingwall",
+            "repo": "hackathon-attachment-publisher",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-tx-heatmap",
+          "description": "Mondo transactions displayed as a heatmap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-01-24T15:44:22Z",
+            "owner": "rmuch",
+            "repo": "mondo-tx-heatmap",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MondoSquared",
+          "description": "Automatically check into foursquare when using your Mondo card",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "forked and updated: monzo-squared",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-03-11T22:21:23Z",
+                "owner": "iainmullan",
+                "repo": "monzo-squared",
+                "stars": 0
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-12T22:03:36Z",
+            "owner": "endocrimes",
+            "repo": "MondoSquared",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monzo-roundup",
+          "description": "Round up Monzo transactions and send to moneybox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2017-04-03T19:36:27Z",
+            "owner": "raindeerr",
+            "repo": "monzo-roundup",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitmondo",
+          "description": "Show Bitcoin transactions at Mondo feed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-01-24T12:57:09Z",
+            "owner": "ondrejsika",
+            "repo": "bitmondo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondo-bills",
+          "description": "service to monitor subscriptions and bills coming out of your Mondo account automatically",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-06-05T12:27:15Z",
+            "owner": "danpalmer",
+            "repo": "mondo-bills",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toshl",
+          "description": "Automatically add expenses to Toshl whenever there is a transaction on Mondo card",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-18T16:35:54Z",
+            "owner": "andreagrandi",
+            "repo": "mondo-toshl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hubot-monzo-me",
+          "description": "Quickly generate Monzo.me URLs in chat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-05T19:05:16Z",
+            "owner": "robinjmurphy",
+            "repo": "hubot-monzo-me",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Calendar",
+          "description": "Put your bank transactions in your Google Calendar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-11-16T16:21:59Z",
+            "owner": "jairodiaz",
+            "repo": "mondo-google-calendar",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mondochat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-24T14:36:43Z",
+            "owner": "billinghamj",
+            "repo": "mondochat",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monzo Alexa Skill",
+          "description": "Custom Amazon Alexa skill API for Monzo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-11-06T22:56:25Z",
+            "owner": "pyepye",
+            "repo": "monzo-alexa-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonzySkill",
+          "description": "Ask for your balance, transactions & total spent. Tells you your topups, transfers and transaction history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-17T18:36:47Z",
+            "owner": "ajmaradiaga",
+            "repo": "MonzySkill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foursquare",
+          "description": "Auto-foursquare checkin on transansactions",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Google Assistant",
+          "description": "Action for the Google (Home) Assistant",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "MondoTFL",
+          "description": "Pulls journey information from Transport for London's website, generates journey receipts and then automatically links them to your transactions.",
+          "children": []
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Events"
+    },
+    {
+      "description": "Contributions are always welcome! Please read the contribution guidelines first. :gift_heart:",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:59:56.525Z",
+    "original_repository": "rdingwall/awesome-monzo",
+    "original_repository_sha": "1f5626cefd00a9776c2c2cac18db9a42f92ce134",
+    "enhanced_repository": "enhansome/enhansome-monzo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Monzo with stars"
+  }
+}
