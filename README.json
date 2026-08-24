@@ -416,6 +416,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mondo-clj",
+              "description": "Provides a clojure wrapper to the Mondo bank API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47202344,
+                "language": "Clojure",
+                "last_commit": "2016-02-03T11:32:46Z",
+                "owner": "adamneilson",
+                "repo": "mondo-clj",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clojure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "crystal-monzo",
+              "description": "A simple wrapper for the Monzo API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63025594,
+                "language": "Crystal",
+                "last_commit": "2017-01-12T21:51:50Z",
+                "owner": "barisbalic",
+                "repo": "crystal-monzo",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crystal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mondo_elixir",
+              "description": "An Elixir client for the Mondo API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49995126,
+                "language": "Elixir",
+                "last_commit": "2021-08-03T05:15:19Z",
+                "owner": "stevedomin",
+                "repo": "monzo_elixir",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "go-mondo",
               "description": "Provides Go bindings for the Mondo banking app",
               "children": [],
@@ -567,6 +633,28 @@
           "description": null,
           "node_type": "group",
           "title": "Javascript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "business-monzo",
+              "description": "Perl library for interacting with the Monzo API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56379303,
+                "language": "Perl",
+                "last_commit": "2024-05-06T14:29:28Z",
+                "owner": "leejo",
+                "repo": "business-monzo",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perl"
         },
         {
           "children": [
@@ -1073,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:03:17.479Z",
+    "last_updated": "2026-08-24T14:26:02.566Z",
     "original_repository": "rdingwall/awesome-monzo",
     "original_repository_id": 48425919,
     "original_repository_sha": "1f5626cefd00a9776c2c2cac18db9a42f92ce134",
