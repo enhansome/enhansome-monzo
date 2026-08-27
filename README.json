@@ -1161,9 +1161,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:01:14.282Z",
-    "original_repository": "rdingwall/awesome-monzo",
-    "original_repository_id": 48425919,
+    "last_updated": "2026-08-27T11:52:25.917Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 48425919,
+      "language": null,
+      "last_commit": "2021-06-08T07:39:40Z",
+      "owner": "rdingwall",
+      "repo": "awesome-monzo",
+      "stars": 424
+    },
     "original_repository_sha": "1f5626cefd00a9776c2c2cac18db9a42f92ce134",
     "enhanced_repository": "enhansome/enhansome-monzo",
     "enhanced_repository_description": null,
