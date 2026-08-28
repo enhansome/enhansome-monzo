@@ -18,7 +18,8 @@
                 "owner": "robcalcroft",
                 "repo": "monzoweb",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "jamesallison",
                 "repo": "mondoweb",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "scottrobertson",
                 "repo": "monzo-export",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Manoj-nathwani",
                 "repo": "my-mondo",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "samdobson",
                 "repo": "monzo-coffee",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "scottrobertson",
                 "repo": "monzo-web",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "jamesdools",
                 "repo": "monzoid",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "MartinBlackburn",
                 "repo": "mondo-api",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "willrax",
                 "repo": "mondo-dashboard",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "rossmuego",
                 "repo": "dashbonzo",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "roketworks",
                 "repo": "Monzo-Web-Client",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "stuart-williams",
                 "repo": "monzo-balance",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "DaveWM",
                 "repo": "monzo-cljs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -220,7 +233,8 @@
                 "owner": "robjtede",
                 "repo": "monux",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2026-03-24T01:04:02Z",
                 "owner": "cesarferreira",
                 "repo": "monzo-cli",
-                "stars": 30
-              }
+                "stars": 31
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "robinjmurphy",
                 "repo": "monies",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "pawelad",
                 "repo": "monz",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "dphobson",
                 "repo": "Mon.do.extension.chrome",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "danielgraf",
                 "repo": "Mondo.extension",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -317,7 +336,8 @@
                 "owner": "hitherejoe",
                 "repo": "Mondroid",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "joluet",
                 "repo": "MondoAndroid",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "emmaguy",
                 "repo": "monzo-widget",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -375,7 +397,8 @@
                 "owner": "rdingwall",
                 "repo": "mondo.net",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "rdingwall",
                 "repo": "MondoAspNetMvcSample",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "rdingwall",
                 "repo": "MondoUniversalWindowsSample",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -427,7 +452,8 @@
                 "owner": "adamneilson",
                 "repo": "mondo-clj",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -449,7 +475,8 @@
                 "owner": "barisbalic",
                 "repo": "crystal-monzo",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -471,7 +498,8 @@
                 "owner": "stevedomin",
                 "repo": "monzo_elixir",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -493,7 +521,8 @@
                 "owner": "sjwhitworth",
                 "repo": "gomondo",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -508,7 +537,8 @@
                 "owner": "icio",
                 "repo": "mondo",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -523,7 +553,8 @@
                 "owner": "mattrco",
                 "repo": "monzo-webhook-lambda",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -545,7 +576,8 @@
                 "owner": "rubenwardy",
                 "repo": "monzo_retrofit",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -560,7 +592,8 @@
                 "owner": "danielgraf",
                 "repo": "MondoJava",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -582,7 +615,8 @@
                 "owner": "solidgoldpig",
                 "repo": "monzo-bank",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -597,7 +631,8 @@
                 "owner": "lededje",
                 "repo": "Mondojs",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -612,7 +647,8 @@
                 "owner": "willrax",
                 "repo": "mondo-lambda-auth",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -627,7 +663,8 @@
                 "owner": "mcky",
                 "repo": "mondo-webhook-mock",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -649,7 +686,8 @@
                 "owner": "leejo",
                 "repo": "business-monzo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -671,7 +709,8 @@
                 "owner": "ameliaikeda",
                 "repo": "monzo-php",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -686,7 +725,8 @@
                 "owner": "ThePixelDeveloper",
                 "repo": "Monzo-Client",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -708,7 +748,8 @@
                 "owner": "adesnmi",
                 "repo": "monzo-python",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -723,7 +764,8 @@
                 "owner": "pawelad",
                 "repo": "pymonzo",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -738,7 +780,8 @@
                 "owner": "simonvc",
                 "repo": "mondo-python",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -753,7 +796,8 @@
                 "owner": "dalemyers",
                 "repo": "libmonzo",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -768,7 +812,8 @@
                 "owner": "pyepye",
                 "repo": "monzo-python",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -790,7 +835,8 @@
                 "owner": "monzo",
                 "repo": "mondo-ruby",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -812,7 +858,8 @@
                 "owner": "pollarm",
                 "repo": "MondoKit",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -827,7 +874,8 @@
                 "owner": "marius-serban",
                 "repo": "monzo-swift",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             },
             {
               "node_type": "item",
@@ -842,7 +890,8 @@
                 "owner": "Sherlouk",
                 "repo": "monzo-vapor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "description": null,
@@ -868,7 +917,8 @@
             "owner": "syncforynab",
             "repo": "fintech-to-ynab",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -883,7 +933,8 @@
             "owner": "Geit",
             "repo": "alexa-monzo",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -898,7 +949,8 @@
             "owner": "Andy-EOS",
             "repo": "Monzo-Google-Sheets",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -913,7 +965,8 @@
             "owner": "rdingwall",
             "repo": "hackathon-uber-mondo",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -928,7 +981,8 @@
             "owner": "mcky",
             "repo": "mondo-sheets",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -943,7 +997,8 @@
             "owner": "elliotdavies",
             "repo": "mondo-hackday",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1013,8 @@
             "owner": "danpalmer",
             "repo": "mondo-loyalty",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1029,8 @@
             "owner": "rdingwall",
             "repo": "hackathon-attachment-publisher",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1045,8 @@
             "owner": "rmuch",
             "repo": "mondo-tx-heatmap",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1008,7 +1066,8 @@
                 "owner": "iainmullan",
                 "repo": "monzo-squared",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:18:17.468Z"
             }
           ],
           "repo_info": {
@@ -1019,7 +1078,8 @@
             "owner": "endocrimes",
             "repo": "MondoSquared",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1034,7 +1094,8 @@
             "owner": "raindeerr",
             "repo": "monzo-roundup",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1049,7 +1110,8 @@
             "owner": "ondrejsika",
             "repo": "bitmondo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1064,7 +1126,8 @@
             "owner": "danpalmer",
             "repo": "mondo-bills",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1079,7 +1142,8 @@
             "owner": "andreagrandi",
             "repo": "mondo-toshl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1094,7 +1158,8 @@
             "owner": "robinjmurphy",
             "repo": "hubot-monzo-me",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1109,7 +1174,8 @@
             "owner": "jairodiaz",
             "repo": "mondo-google-calendar",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1124,7 +1190,8 @@
             "owner": "billinghamj",
             "repo": "mondochat",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1139,7 +1206,8 @@
             "owner": "pyepye",
             "repo": "monzo-alexa-skill",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         },
         {
           "node_type": "item",
@@ -1154,14 +1222,15 @@
             "owner": "ajmaradiaga",
             "repo": "MonzySkill",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:18:17.468Z"
         }
       ],
       "title": "Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:07:55.986Z",
+    "last_updated": "2026-08-28T15:18:17.468Z",
     "original_repository_info": {
       "archived": false,
       "id": 48425919,

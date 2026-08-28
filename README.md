@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,401 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,753 | 🐛 105 | 📅 2026-08-21 list thing.
 
 ## General Resources
 
@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,401 |
 ##### Desktop
 
 * [Monux](https://github.com/robjtede/monux) ⚠️ Archived - Unofficial Monzo Client for Desktop
-* [monzo-cli](https://github.com/cesarferreira/monzo-cli) ⭐ 30 | 🐛 0 | 🌐 Rust | 📅 2026-03-24 - Monzo bank command line interface client
+* [monzo-cli](https://github.com/cesarferreira/monzo-cli) ⭐ 31 | 🐛 0 | 🌐 Rust | 📅 2026-03-24 - Monzo bank command line interface client
 * [monies](https://github.com/robinjmurphy/monies) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-17 - A little command line application for Mondo
 * [monz](https://github.com/pawelad/monz) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2024-12-03 - Simple (and awesome) Monzo command line interface
 * [Mon.do Chrome Extension](https://github.com/dphobson/Mon.do.extension.chrome) ⚠️ Archived - A browser extension for your Mondo account to get display your current balance and days spending
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,401 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,401 | 🐛 105 | 📅 2026-08-21 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,753 | 🐛 105 | 📅 2026-08-21 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
