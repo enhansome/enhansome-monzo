@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,269 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,569 | 🐛 105 | 📅 2026-08-21 list thing.
 
 ## General Resources
 
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,269 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 501,269 | 🐛 105 | 📅 2026-08-21 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 501,569 | 🐛 105 | 📅 2026-08-21 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
