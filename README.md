@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,102 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,410 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## General Resources
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,102 |
 
 ##### Web
 
-* [mondoweb](https://github.com/robcalcroft/mondoweb) ⭐ 78 | 🐛 7 | 🌐 JavaScript | 📅 2018-06-24 - Check your Mondo account from a web browser
+* [mondoweb](https://github.com/robcalcroft/mondoweb) ⭐ 77 | 🐛 7 | 🌐 JavaScript | 📅 2018-06-24 - Check your Mondo account from a web browser
 * [mondoweb](https://github.com/jamesallison/mondoweb) ⭐ 22 | 🐛 3 | 🌐 PHP | 📅 2016-10-22 - An online banking client built on the Mondo API
 * [Monzo to QIF CLI](https://github.com/scottrobertson/monzo-to-qif) ⚠️ Archived - Export Monzo transaction to QIF via CLI
 * [My Mondo](https://github.com/Manoj-nathwani/my-mondo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2016-04-15 - Mondo iOS app clone for web
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,102 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,102 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,410 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

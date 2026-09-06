@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "robcalcroft",
                 "repo": "monzoweb",
-                "stars": 78,
+                "stars": 77,
                 "topics": [
                   "banking",
                   "fintech",
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:37:44.168Z",
+    "last_updated": "2026-09-06T07:52:07.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
