@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,410 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,779 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## General Resources
 
@@ -88,7 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,410 |
 
 ##### Go
 
-* [go-mondo](https://github.com/sjwhitworth/go-mondo) ⭐ 36 | 🐛 2 | 🌐 Go | 📅 2017-11-25 - Provides Go bindings for the Mondo banking app
+* [go-mondo](https://github.com/sjwhitworth/go-mondo) ⭐ 35 | 🐛 2 | 🌐 Go | 📅 2017-11-25 - Provides Go bindings for the Mondo banking app
 * [mondo](https://github.com/icio/mondo) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2016-06-18 - Golang Mondo API Client
 * [monzo-webhook-lambda](https://github.com/mattrco/monzo-webhook-lambda) ⚠️ Archived - Trigger an AWS Lambda function from a webhook request
 * [go-monzo](https://github.com/gurparit/go-monzo) - Golang Monzo API Library
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,410 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,410 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,779 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

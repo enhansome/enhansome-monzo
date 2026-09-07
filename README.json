@@ -707,7 +707,7 @@
                 "open_issues": 2,
                 "owner": "sjwhitworth",
                 "repo": "gomondo",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:18:17.468Z"
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:52:07.514Z",
+    "last_updated": "2026-09-07T08:14:11.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
