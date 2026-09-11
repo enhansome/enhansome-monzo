@@ -360,7 +360,7 @@
                 "open_issues": 0,
                 "owner": "cesarferreira",
                 "repo": "monzo-cli",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:18:17.468Z"
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:05:13.026Z",
+    "last_updated": "2026-09-11T08:00:14.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
