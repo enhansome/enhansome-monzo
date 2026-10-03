@@ -1435,7 +1435,7 @@
             {
               "node_type": "item",
               "title": "forked and updated: monzo-squared",
-              "description": null,
+              "description": "iainmullan/monzo-squared",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1602,7 +1602,7 @@
         {
           "node_type": "item",
           "title": "mondochat",
-          "description": null,
+          "description": "billinghamj/mondochat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:41:51.951Z",
+    "last_updated": "2026-10-03T04:57:17.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
