@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,382 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,881 | 🐛 107 | 📅 2026-09-02 list thing.
 
 ## General Resources
 
@@ -125,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,382 |
 ##### Python
 
 * [monzo-python](https://github.com/muyiwaolu/monzo-python) ⚠️ Archived - A python SDK for interacting with the Monzo API
-* [pymonzo](https://github.com/pawelad/pymonzo) ⭐ 22 | 🐛 5 | 🌐 Python | 📅 2026-04-29 - An awesome Python library that smartly wraps Monzo public API
+* [pymonzo](https://github.com/pawelad/pymonzo) ⭐ 21 | 🐛 5 | 🌐 Python | 📅 2026-04-29 - An awesome Python library that smartly wraps Monzo public API
 * [mondo-python](https://github.com/simonvc/mondo-python) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2016-02-03 - A simple python SDK for dealing with the Mondo API
 * [libmonzo](https://github.com/dalemyers/libmonzo) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2018-10-08 - A Python 3 wrapper of the Monzo API that supports OAuth
 * [monzo-python](https://github.com/pyepye/monzo-python) ⚠️ Archived - A Python (2.7) wrapper for the Monzo API
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,382 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 514,382 | 🐛 107 | 📅 2026-09-02 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 514,881 | 🐛 107 | 📅 2026-09-02 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

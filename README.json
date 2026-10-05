@@ -1026,7 +1026,7 @@
                 "open_issues": 5,
                 "owner": "pawelad",
                 "repo": "pymonzo",
-                "stars": 22,
+                "stars": 21,
                 "topics": [
                   "api-client",
                   "monzo",
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T09:43:22.844Z",
+    "last_updated": "2026-10-05T10:20:59.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
