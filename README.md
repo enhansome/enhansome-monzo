@@ -2,7 +2,7 @@
 
 > A curated list of awesome [Monzo](https://monzo.com) related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,372 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,832 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## General Resources
 
@@ -144,7 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,372 |
 
 ## Integrations
 
-* [YNAB](https://github.com/scottrobertson/mondo-to-ynab) ⭐ 246 | 🐛 14 | 🌐 Ruby | 📅 2023-03-06 - Automatically push Mondo transactions to YNAB
+* [YNAB](https://github.com/scottrobertson/mondo-to-ynab) ⭐ 245 | 🐛 14 | 🌐 Ruby | 📅 2023-03-06 - Automatically push Mondo transactions to YNAB
 * [alexa-monzo](https://github.com/Geit/alexa-monzo) ⭐ 45 | 🐛 13 | 🌐 JavaScript | 📅 2018-09-16 - Monzo skill for the Amazon Alexa
 * [Monzo-Google-Sheets](https://github.com/Andy-EOS/Monzo-Google-Sheets) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-05-10 - Scripts to sync data betweeen a google sheet and Monzo account
 * [Uber](https://github.com/rdingwall/hackathon-uber-mondo) ⭐ 10 | 🐛 0 | 🌐 Go | 📅 2015-09-20 - Instant publishing of Uber receipts to your Mondo bank feed
@@ -216,7 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,372 |
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 515,372 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 515,832 | 🐛 106 | 📅 2026-09-02 first. :gift\_heart:
 
 ## License
 
@@ -224,4 +224,4 @@ Contributions are always welcome! Please read the [contribution guidelines](http
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

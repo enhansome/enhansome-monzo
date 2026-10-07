@@ -1236,7 +1236,7 @@
             "open_issues": 14,
             "owner": "syncforynab",
             "repo": "fintech-to-ynab",
-            "stars": 246,
+            "stars": 245,
             "topics": [
               "bank",
               "finance",
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:26.086Z",
+    "last_updated": "2026-10-07T10:11:42.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monzo related things",
